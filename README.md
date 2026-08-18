@@ -2,7 +2,7 @@
 
 **[Download LoreMonkey for Windows](../../releases/latest)**
 
-An AI copilot that listens to your D&D session and hands you in-character
+An AI copilot that listens to your TTRPG session and hands you in-character
 suggestions at the right moment. Audio and transcription run entirely on your
 own machine, so nothing you say at the table leaves it.
 
